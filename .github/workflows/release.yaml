@@ -33,10 +33,13 @@ jobs:
 
     runs-on: macos-latest
 
-    needs: [check-for-changes]
-    if: ${{ needs.check-for-changes.outputs.any_changed == 'true' }}
+    # needs: [ check-for-changes ]
+    # if: needs.check-for-changes.outputs.any_changed == 'true'
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Package GTFS
         run: zip gtfs_hu_bkk.zip *
 
