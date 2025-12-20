@@ -1,0 +1,56 @@
+name: Upload updated datasets
+
+on:
+  push:
+    branches: main
+
+defaults:
+  run:
+    working-directory: hu_bkk
+
+jobs:
+  check-for-changes:
+    name: Package and upload to AWS S3
+
+    runs-on: macos-latest
+
+    outputs:
+      any_changed: ${{ steps.changed-files.outputs.any_changed }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get changed files in /hu_bkk
+      id: changed-files
+      uses: tj-actions/changed-files@v47
+      with:
+        since_last_remote_commit: true 
+        files: hu_bkk/**
+
+  upload-zip:
+    name: Package and upload to AWS S3
+
+    needs: [check-for-changes]
+    if: ${{ needs.check-for-changes.outputs.any_changed == 'true' }}
+
+      - name: Package GTFS
+        run: zip gtfs_hu_bkk.zip *
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: eu-central-1
+
+      - name: Deploy to AWS S3
+        run: |
+          aws s3 cp gtfs_hu_bkk.zip s3://gy-mate-homepage/gtfs \
+            --content-disposition attachment
+
+      - name: Invalidate CloudFront cache
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id E1G64F71UGC3EQ \
+            --paths "/gtfs/*"
