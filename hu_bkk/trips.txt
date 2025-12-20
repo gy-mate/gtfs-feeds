@@ -1,0 +1,5 @@
+trip_id,route_id,shape_id,service_id,trip_headsign,direction_id,trip_short_name,block_id,wheelchair_accessible,bikes_allowed
+regular_uphill,route,uphill,regular,,0,,,2,2
+regular_downhill,route,downhill,regular,,1,,,2,2
+afternoon_uphill,route,uphill,afternoon,,0,,,2,2
+afternoon_downhill,route,downhill,afternoon,,1,,,2,2

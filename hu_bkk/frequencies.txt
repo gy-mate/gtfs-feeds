@@ -1,0 +1,5 @@
+trip_id,start_time,end_time,headway_secs,exact_times
+regular_downhill,08:10:00,21:50:00,600,0
+regular_uphill,08:10:00,21:50:00,600,0
+afternoon_downhill,14:40:00,21:50:00,600,0
+afternoon_uphill,14:40:00,21:50:00,600,0

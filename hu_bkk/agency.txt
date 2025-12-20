@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+bkk_funicular,BKK Budapesti Közlekedési Központ Zrt.,https://bkk.hu,Europe/Budapest,hu,+3612019128,https://bkk.hu/utazasi-informaciok/kozossegi-kozlekedes/kulonleges-jaratok-nosztalgiakozlekedes/siklo/,bkk@bkk.hu

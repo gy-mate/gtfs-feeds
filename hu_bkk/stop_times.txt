@@ -1,0 +1,9 @@
+trip_id,stop_id,stop_sequence,arrival_time,departure_time,stop_headsign,pickup_type,drop_off_type,continuous_pickup,continuous_drop_off,timepoint
+regular_uphill,E09800,1,00:00:00,00:00:00,,,,,,0
+regular_uphill,E09801,2,00:01:35,00:01:35,,,,,,0
+regular_downhill,E09801,1,00:00:00,00:00:00,,,,,,0
+regular_downhill,E09800,2,00:01:35,00:01:35,,,,,,0
+afternoon_uphill,E09800,1,00:00:00,00:00:00,,,,,,0
+afternoon_uphill,E09801,2,00:01:35,00:01:35,,,,,,0
+afternoon_downhill,E09801,1,00:00:00,00:00:00,,,,,,0
+afternoon_downhill,E09800,2,00:01:35,00:01:35,,,,,,0

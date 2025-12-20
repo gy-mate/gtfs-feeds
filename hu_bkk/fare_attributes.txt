@@ -1,0 +1,6 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration,agency_id
+boat_discount,2500.0,HUF,1,2,2592000,bkk_funicular
+boat_fullprice,6500.0,HUF,1,2,2592000,bkk_funicular
+discount,2000.0,HUF,1,1,31536000,bkk_funicular
+family,12000.0,HUF,1,1,50400,bkk_funicular
+fullprice,5000.0,HUF,1,1,31536000,bkk_funicular
