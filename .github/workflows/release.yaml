@@ -10,7 +10,7 @@ defaults:
 
 jobs:
   check-for-changes:
-    name: Package and upload to AWS S3
+    name: Check for content changes
 
     runs-on: macos-latest
 
@@ -52,7 +52,7 @@ jobs:
 
       - name: Deploy to AWS S3
         run: |
-          aws s3 cp gtfs_hu_bkk.zip s3://gy-mate-homepage/gtfs \
+          aws s3 cp gtfs_hu_bkk.zip s3://gy-mate-homepage/gtfs/ \
             --content-disposition attachment
 
       - name: Invalidate CloudFront cache
