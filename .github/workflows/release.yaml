@@ -6,7 +6,7 @@ on:
 
 defaults:
   run:
-    working-directory: hu_bkk
+    working-directory: hu_funicular
 
 jobs:
   check-for-changes:
@@ -21,27 +21,27 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Get changed files in /hu_bkk
+      - name: Get changed files
         id: changed-files
         uses: tj-actions/changed-files@v47
         with:
           since_last_remote_commit: true 
-          files: hu_bkk/**
+          files: hu_funicular/**
 
   upload-zip:
     name: Package and upload to AWS S3
-
-    runs-on: macos-latest
-
-    # needs: [ check-for-changes ]
+    
+    # needs: [ validate-gtfs ]
     # if: needs.check-for-changes.outputs.any_changed == 'true'
+    
+    runs-on: macos-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Package GTFS
-        run: zip gtfs_hu_bkk.zip *
+        run: zip gtfs_hu_funicular.zip *
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
@@ -52,11 +52,5 @@ jobs:
 
       - name: Deploy to AWS S3
         run: |
-          aws s3 cp gtfs_hu_bkk.zip s3://gy-mate-homepage/gtfs/ \
+          aws s3 cp gtfs_hu_funicular.zip s3://gtfs-gy-mate/ \
             --content-disposition attachment
-
-      - name: Invalidate CloudFront cache
-        run: |
-          aws cloudfront create-invalidation \
-            --distribution-id E1G64F71UGC3EQ \
-            --paths "/gtfs/*"
