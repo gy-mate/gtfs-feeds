@@ -1,0 +1,2 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+chairlift,bkk_chairlift,Libegő,,,6,https://bkk.hu/utazasi-informaciok/kozossegi-kozlekedes/kulonleges-jaratok-nosztalgiakozlekedes/libego/,3B864E,FFFFFF
