@@ -1,2 +1,2 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-route,bkk_funicular,Sikló,,,7,,5C3300,FFFFFF
+funicular,bkk_funicular,Sikló,,,7,https://bkk.hu/utazasi-informaciok/kozossegi-kozlekedes/kulonleges-jaratok-nosztalgiakozlekedes/siklo/,5C3300,FFFFFF
