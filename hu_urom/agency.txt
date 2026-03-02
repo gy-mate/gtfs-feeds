@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+urom,Üröm Község Önkormányzata,https://www.urom.hu/,Europe/Budapest,hu,+36 26 350 054,https://www.urom.hu/menetrendek/539-urom-kisbusz#:~:text=Viteldíj,pmh@urom.hu

@@ -1,0 +1,12 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_url,location_type,wheelchair_boarding,platform_code
+csillag,056161,Csillaghegy H,47.58443,19.0441755,,0,2,
+kocsag_ki,,Kócsag utca,47.5891916,19.0305127,,0,2,
+pillango_ki,,Pillangó utca,47.5923213,19.0286674,,0,2,
+kobanya_ki,,Kőbánya utca,47.5973917,19.0182476,,0,2,
+ovi,,Fő utca 37. (Óvoda),47.598436,19.0146719,,0,2,
+templom,,"Üröm, Templom tér",47.5985007,19.0133616,,0,1,
+kobanya_be,,Kőbánya utca,47.5972835,19.018348,,0,2,
+pillango_be,,Pillangó utca,47.592455,19.0284368,,0,2,
+kocsag_be,,Kócsag utca,47.5891842,19.0304044,,0,2,
+karo,,Kárókatona utca,47.5881263,19.0330798,,0,2,
+sadove,,"Üröm, Sadove",47.6143895,19.0152048,,0,2,
