@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+faehreneuburg,Fährbetrieb Marc Freiwald,https://www.rheinfaehre-neuburg.de/,Europe/Berlin,de,+49 176 218 261 99,https://www.rheinfaehre-neuburg.de/preise/,info@rheinfaehre-neuburg.de

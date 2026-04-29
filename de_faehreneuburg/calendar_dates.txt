@@ -1,0 +1,9 @@
+service_id,date,exception_type
+zeitscheibe2,20260403,2
+zeitscheibe2,20260406,2
+zeitscheibe3,20260501,2
+zeitscheibe3,20260514,2
+zeitscheibe3,20260525,2
+zeitscheibe3,20260604,2
+zeitscheibe4,20261003,2
+zeitscheibe5,20261101,2

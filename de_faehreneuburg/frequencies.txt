@@ -1,0 +1,9 @@
+trip_id,start_time,end_time,headway_secs,exact_times
+zeitscheibe2_baden,10:00:00,17:45:00,900,0
+zeitscheibe2_pfalz,10:05:00,17:50:00,900,0
+zeitscheibe3_baden,10:00:00,18:45:00,900,0
+zeitscheibe3_pfalz,10:05:00,18:50:00,900,0
+zeitscheibe4_baden,10:00:00,17:45:00,900,0
+zeitscheibe4_pfalz,10:05:00,17:50:00,900,0
+zeitscheibe5_baden,10:00:00,17:45:00,900,0
+zeitscheibe5_pfalz,10:05:00,17:50:00,900,0
