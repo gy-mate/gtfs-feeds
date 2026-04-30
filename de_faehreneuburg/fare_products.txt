@@ -19,7 +19,7 @@ motorradbeiwagen,"Motorrad mit Beiwagen",,papier,4.00,EUR
 motorradbeiwagen,"Motorrad mit Beiwagen",,punktekarte,3.50,EUR
 quad,"Quad/Trike",,papier,4.00,EUR
 quad,"Quad/Trike",,punktekarte,3.50,EUR
-pkw,"Pkw",,papier,5.00.EUR
+pkw,"Pkw",,papier,5.00,EUR
 pkw,"Pkw",,punktekarte,3.50,EUR
 kleinbus,"Kleinbusse bis 2 t zul. Gesamtgewicht",,papier,5.00,EUR
 kleinbus,"Kleinbusse bis 2 t zul. Gesamtgewicht",,punktekarte,3.50,EUR
