@@ -1,0 +1,3 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_url,location_type,wheelchair_boarding,platform_code
+neuburg,,Fähranleger Neuburg,48.9788798,8.2548368,,0,2,
+neuburgweier,,Fähranleger Neuburgweier,48.9773406,8.2569498,,0,2,

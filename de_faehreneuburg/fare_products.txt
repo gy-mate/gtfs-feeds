@@ -1,0 +1,48 @@
+fare_product_id,fare_product_name,rider_category_id,fare_media_id,amount,currency
+punktekarte,"Punktekarte",,punktekarte,35.00,EUR
+fussgaenger,"Fußgänger",,papier,1.50,EUR
+fussgaenger,"Fußgänger",,punktekarte,1.05,EUR
+kind,"Kind bis 4 Jahre als Fußgänger",,papier,0.00,EUR
+radfahrer,"Radfahrer",,papier,2.50,EUR
+radfahrer,"Radfahrer",,punktekarte,1.75,EUR
+tandem,"Tandem",,papier,3.00,EUR
+tandem,"Tandem",,punktekarte,2.80,EUR
+fahrradanhaenger,"Fahrradanhänger",,papier,0.50,EUR
+fahrradanhaenger,"Fahrradanhänger",,punktekarte,0.35,EUR
+mitfahrer,"Mitfahrer (in Pkw, Lkw, etc.)",,papier,1.50,EUR
+mitfahrer,"Mitfahrer (in Pkw, Lkw, etc.)",,punktekarte,1.05,EUR
+moped,"Moped, Roller bis 50 ccm",,papier,3.00,EUR
+moped,"Moped, Roller bis 50 ccm",,punktekarte,2.10,EUR
+motorrad,"Motorrad",,papier,3.50,EUR
+motorrad,"Motorrad",,punktekarte,2.80,EUR
+motorradbeiwagen,"Motorrad mit Beiwagen",,papier,4.00,EUR
+motorradbeiwagen,"Motorrad mit Beiwagen",,punktekarte,3.50,EUR
+quad,"Quad/Trike",,papier,4.00,EUR
+quad,"Quad/Trike",,punktekarte,3.50,EUR
+pkw,"Pkw",,papier,5.00,EUR
+pkw,"Pkw",,punktekarte,3.50,EUR
+kleinbus,"Kleinbusse bis 2 t zul. Gesamtgewicht",,papier,5.00,EUR
+kleinbus,"Kleinbusse bis 2 t zul. Gesamtgewicht",,punktekarte,3.50,EUR
+wohnmobil1,"Wohnmobile, Transporter bis 3,5 t zul. Gesamtgewicht",,papier,6.00,EUR
+wohnmobil1,"Wohnmobile, Transporter bis 3,5 t zul. Gesamtgewicht",,punktekarte,5.25,EUR
+wohnmobil2,"Wohnmobile über 5 m Länge",,papier,6.50,EUR
+wohnmobil2,"Wohnmobile über 5 m Länge",,punktekarte,5.60,EUR
+pkwanh1,"Pkw-Anhänger bis 0,75 t zul. Gesamtgewicht",,papier,2.50,EUR
+pkwanh1,"Pkw-Anhänger bis 0,75 t zul. Gesamtgewicht",,punktekarte,1.75,EUR
+pkwanh2,"Pkw-Anhänger bis 2,8 t zul. Gesamtgewicht",,papier,3.50,EUR
+pkwanh2,"Pkw-Anhänger bis 2,8 t zul. Gesamtgewicht",,punktekarte,2.80,EUR
+lkw1,"Lkw bis 3,5 t zul. Gesamtgewicht",,papier,6.00,EUR
+lkw1,"Lkw bis 3,5 t zul. Gesamtgewicht",,punktekarte,5.25,EUR
+lkw2,"Lkw bis 7,5 t zul. Gesamtgewicht",,papier,8.00,EUR
+lkw3,"Lkw bis 16 t zul. Gesamtgewicht",,papier,12.00,EUR
+lkw4,"Lkw bis 22 t zul. Gesamtgewicht",,papier,15.00,EUR
+lkw5,"Lkw bis 30 t zul. Gesamtgewicht",,papier,17.00,EUR
+bus1,"Busse bis 8 Sitzplätze (leer)",,papier,6.00,EUR
+bus1,"Busse bis 8 Sitzplätze (leer)",,punktekarte,5.25,EUR
+bus2,"Reisebusse 2 Achsen (leer)",,papier,18.00,EUR
+bus3,"Reisebusse 3 Achsen (leer)",,papier,22.00,EUR
+traktor1,"Traktoren bis 3,5 t zul. Gesamtgewicht",,papier,6.00,EUR
+traktor2,"Traktoren bis 7,5 t zul. Gesamtgewicht",,papier,8.00,EUR
+traktor3,"Traktoren bis 16 t zul. Gesamtgewicht",,papier,12.00,EUR
+landwirtanh,"Bei landwirtsch. Anhängern Preis pro t zul. Gesamtgewicht",,papier,1.50,EUR
+dringendeinzel,"Dringende Einzelfahrt inkl. Brennstoffkosten",,papier,7.00,EUR
