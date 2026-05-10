@@ -1,0 +1,3 @@
+fare_media_id,fare_media_name,fare_media_type
+papier,einzelnes Papierticket,1
+punktekarte,Punktekarte,2
