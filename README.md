@@ -22,4 +22,10 @@ Many thanks to the team of [menetrend.app](https://menetrend.app) for helping to
 
 ## Deployment
 
-On pushes to `main`, all changed feeds are zipped and uploaded to my public [AWS S3 bucket](s3://gtfs-gy-mate/). See their HTTPS permalinks at [gy-mate.hu/gtfs](https://gy-mate.hu/gtfs).
+On pushes to `main`, all changed feeds are zipped and uploaded to my public [AWS S3 bucket](s3://gtfs-gy-mate/).
+See their HTTPS permalinks at [gy-mate.hu/gtfs](https://gy-mate.hu/gtfs).
+
+## License
+
+Data in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+See [`license.txt`](license.txt) for its full text.
