@@ -1,0 +1,3 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_url,location_type,wheelchair_boarding,platform_code
+szantod,,Szántódrév,46.8796311,17.9001388,,0,1,
+tihany,,Tihanyrév,46.8886459,17.8917597,,0,1,

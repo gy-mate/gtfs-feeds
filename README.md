@@ -14,6 +14,10 @@ This repository contains the following GTFS Schedule feeds maintained by me.
 
 [`hu_chairlift`](hu_chairlift)
 
+#### Lake Balaton ferry
+
+[`hu_bahart-ferry`](hu_bahart-ferry)
+
 #### Üröm
 
 [`hu_urom`](hu_urom)

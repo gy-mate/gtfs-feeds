@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+bahart_ferry,Balatoni Hajózási Zrt.,https://bahart.hu,Europe/Budapest,hu,+36 84 310 050,https://bahart.hu/sites/default/files/2026-06/Komp_menetdijak_20260601.pdf,ugyfelszolgalat@bahart.hu
