@@ -1,0 +1,9 @@
+trip_id,route_id,shape_id,service_id,trip_headsign,direction_id,trip_short_name,block_id,wheelchair_accessible,bikes_allowed,cars_allowed
+zeitscheibe2_baden,faehreneuburg,,zeitscheibe2,,0,,,1,1,1
+zeitscheibe2_pfalz,faehreneuburg,,zeitscheibe2,,1,,,1,1,1
+zeitscheibe3_baden,faehreneuburg,,zeitscheibe3,,0,,,1,1,1
+zeitscheibe3_pfalz,faehreneuburg,,zeitscheibe3,,1,,,1,1,1
+zeitscheibe4_baden,faehreneuburg,,zeitscheibe4,,0,,,1,1,1
+zeitscheibe4_pfalz,faehreneuburg,,zeitscheibe4,,1,,,1,1,1
+zeitscheibe5_baden,faehreneuburg,,zeitscheibe5,,0,,,1,1,1
+zeitscheibe5_pfalz,faehreneuburg,,zeitscheibe5,,1,,,1,1,1
