@@ -1,0 +1,2 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+ferry,pasztor_ferry,Pásztor rév,Szentendre–Szigetmonostor rév,,4,,1A49AC,FFFFFF

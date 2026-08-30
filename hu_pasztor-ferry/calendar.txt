@@ -1,0 +1,6 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+weekday,1,1,1,1,1,0,0,20260309,20270307
+weekend,0,0,0,0,0,1,1,20260309,20270307
+late_on_request_01,1,1,1,1,1,1,1,20260309,20260401
+late_regular,1,1,1,1,1,1,1,20260402,20261031
+late_on_request_02,1,1,1,1,1,1,1,20261101,20270307

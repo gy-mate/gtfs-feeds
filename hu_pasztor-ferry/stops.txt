@@ -1,0 +1,3 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_url,location_type,wheelchair_boarding,platform_code
+sztendre,,Szentendre,47.6705334,19.0794995,,0,2,
+sziget,779769_2,Szigetmonostor,47.6699957,19.0821037,,0,2,
