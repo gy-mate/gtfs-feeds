@@ -1,0 +1,6 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+zeitscheibe1,0,0,0,0,0,0,0,20251220,20260228
+zeitscheibe2,1,1,1,1,1,1,1,20260301,20260430
+zeitscheibe3,1,1,1,1,1,1,1,20260501,20260930
+zeitscheibe4,1,1,1,1,1,1,1,20261001,20261031
+zeitscheibe5,1,1,1,1,1,0,0,20261101,20261219

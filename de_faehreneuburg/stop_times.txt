@@ -1,0 +1,17 @@
+trip_id,stop_id,stop_sequence,arrival_time,departure_time,stop_headsign,pickup_type,drop_off_type,continuous_pickup,continuous_drop_off,timepoint
+zeitscheibe2_baden,neuburg,0,00:00:00,00:00:00,,,,1,1,0
+zeitscheibe2_baden,neuburgweier,1,00:05:00,00:05:00,,,,1,1,0
+zeitscheibe2_pfalz,neuburgweier,0,00:00:00,00:00:00,,,,1,1,0
+zeitscheibe2_pfalz,neuburg,1,00:05:00,00:05:00,,,,1,1,0
+zeitscheibe3_baden,neuburg,0,00:00:00,00:00:00,,,,1,1,0
+zeitscheibe3_baden,neuburgweier,1,00:05:00,00:05:00,,,,1,1,0
+zeitscheibe3_pfalz,neuburgweier,0,00:00:00,00:00:00,,,,1,1,0
+zeitscheibe3_pfalz,neuburg,1,00:05:00,00:05:00,,,,1,1,0
+zeitscheibe4_baden,neuburg,0,00:00:00,00:00:00,,,,1,1,0
+zeitscheibe4_baden,neuburgweier,1,00:05:00,00:05:00,,,,1,1,0
+zeitscheibe4_pfalz,neuburgweier,0,00:00:00,00:00:00,,,,1,1,0
+zeitscheibe4_pfalz,neuburg,1,00:05:00,00:05:00,,,,1,1,0
+zeitscheibe5_baden,neuburg,0,00:00:00,00:00:00,,,,1,1,0
+zeitscheibe5_baden,neuburgweier,1,00:05:00,00:05:00,,,,1,1,0
+zeitscheibe5_pfalz,neuburgweier,0,00:00:00,00:00:00,,,,1,1,0
+zeitscheibe5_pfalz,neuburg,1,00:05:00,00:05:00,,,,1,1,0
