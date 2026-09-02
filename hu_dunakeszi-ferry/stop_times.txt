@@ -1,0 +1,9 @@
+trip_id,stop_id,stop_sequence,arrival_time,departure_time,stop_headsign,pickup_type,drop_off_type,continuous_pickup,continuous_drop_off,timepoint
+weekday_horany,dunakeszi,1,00:00:00,00:00:00,,0,0,1,1,1
+weekday_horany,horany,2,00:06:00,00:06:00,,0,0,1,1,1
+weekday_dunakeszi,horany,1,00:00:00,00:00:00,,0,0,1,1,1
+weekday_dunakeszi,dunakeszi,2,00:06:00,00:06:00,,0,0,1,1,1
+weekend_horany,dunakeszi,1,00:00:00,00:00:00,,0,0,1,1,1
+weekend_horany,horany,2,00:06:00,00:06:00,,0,0,1,1,1
+weekend_dunakeszi,horany,1,00:00:00,00:00:00,,0,0,1,1,1
+weekend_dunakeszi,dunakeszi,2,00:06:00,00:06:00,,0,0,1,1,1

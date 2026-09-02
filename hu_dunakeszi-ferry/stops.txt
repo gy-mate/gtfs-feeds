@@ -1,0 +1,3 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_url,location_type,wheelchair_boarding,platform_code
+dunakeszi,777598_2,Dunakeszi,47.6578338,19.1191419,,0,1,
+horany,,Horány,47.6599571,19.1127394,,0,1,

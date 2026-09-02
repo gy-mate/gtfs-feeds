@@ -1,0 +1,5 @@
+trip_id,route_id,shape_id,service_id,trip_headsign,direction_id,trip_short_name,block_id,wheelchair_accessible,bikes_allowed,cars_allowed
+weekday_horany,ferry,horany,weekday,Horány,0,,,1,1,1
+weekday_dunakeszi,ferry,dunakeszi,weekday,Dunakeszi,1,,,1,1,1
+weekend_horany,ferry,horany,weekend,Horány,0,,,1,1,1
+weekend_dunakeszi,ferry,dunakeszi,weekend,Dunakeszi,1,,,1,1,1

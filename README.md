@@ -22,11 +22,15 @@ This repository contains the following GTFS Schedule feeds maintained by me.
 
 [`hu_urom`](hu_urom)
 
+Many thanks to the team of [menetrend.app](https://menetrend.app) for helping to create the first version of the feed!
+
+#### Dunakeszi ferry
+
+[`hu_dunakeszi-ferry`](hu_dunakeszi-ferry)
+
 #### Pásztor ferry (Szentendre)
 
 [`hu_pasztor-ferry`](hu_pasztor-ferry)
-
-Many thanks to the team of [menetrend.app](https://menetrend.app) for helping to create the first version of the feed!
 
 ## Deployment
 

@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+dunakomp_ferry,DUNACOMP Kft.,https://dunakeszipost.hu/kompmenetrend,Europe/Budapest,hu,+36 26 393 795,https://dunakeszipost.hu/wp-content/uploads/2020/10/20240213_110708-scaled.jpg,
